@@ -1,0 +1,138 @@
+{
+    "torneo": {
+        "nombre": "Torneo de Mar del Plata",
+        "ubicacion": "Mar del Plata",
+        "fecha_inicio": "YYYY-MM-DD",
+        "fecha_final": "YYYY-MM-DD",
+        "participantes": [
+            {
+                "tirador_id": 1,
+                "nombre": "Juan Pérez",
+                "region": "Chaco",
+                "series": [
+                    {
+                        "serie_id": 1,
+                        "fecha": "YYYY-MM-DD",
+                        "ronda": "Primera",
+                        "disparos": [
+                            {
+                                "blanco": 1,
+                                "intentos": [
+                                    {
+                                        "tiro": 1,
+                                        "puntaje": 8
+                                    },
+                                    {
+                                        "tiro": 2,
+                                        "puntaje": 9
+                                    }
+                                ]
+                            },
+                            {
+                                "blanco": 2,
+                                "intentos": [
+                                    {
+                                        "tiro": 1,
+                                        "puntaje": 7
+                                    },
+                                    {
+                                        "tiro": 2,
+                                        "puntaje": 10
+                                    }
+                                ]
+                            }
+                        ],
+                        "puntaje_total": 135
+                    },
+                    {
+                        "serie_id": 2,
+                        "fecha": "YYYY-MM-DD",
+                        "ronda": "Segunda",
+                        "disparos": [
+                            {
+                                "blanco": 1,
+                                "intentos": [
+                                    {
+                                        "tiro": 1,
+                                        "puntaje": 8
+                                    },
+                                    {
+                                        "tiro": 2,
+                                        "puntaje": 9
+                                    }
+                                ]
+                            }
+                        ],
+                        "puntaje_total": 142
+                    }
+                ],
+                "puntaje_acumulado": 277,
+                "posicion": "Final"
+            },
+            {
+                "tirador_id": 1,
+                "nombre": "Carla Segovia",
+                "region": "Chaco",
+                "series": [
+                    {
+                        "serie_id": 1,
+                        "fecha": "YYYY-MM-DD",
+                        "ronda": "Primera",
+                        "disparos": [
+                            {
+                                "blanco": 1,
+                                "intentos": [
+                                    {
+                                        "tiro": 1,
+                                        "puntaje": 8
+                                    },
+                                    {
+                                        "tiro": 2,
+                                        "puntaje": 9
+                                    }
+                                ]
+                            },
+                            {
+                                "blanco": 2,
+                                "intentos": [
+                                    {
+                                        "tiro": 1,
+                                        "puntaje": 7
+                                    },
+                                    {
+                                        "tiro": 2,
+                                        "puntaje": 10
+                                    }
+                                ]
+                            }
+                        ],
+                        "puntaje_total": 135
+                    },
+                    {
+                        "serie_id": 2,
+                        "fecha": "YYYY-MM-DD",
+                        "ronda": "Segunda",
+                        "disparos": [
+                            {
+                                "blanco": 1,
+                                "intentos": [
+                                    {
+                                        "tiro": 1,
+                                        "puntaje": 8
+                                    },
+                                    {
+                                        "tiro": 2,
+                                        "puntaje": 9
+                                    }
+                                ]
+                            }
+                        ],
+                        "puntaje_total": 142
+                    }
+                ],
+                "puntaje_acumulado": 277,
+                "posicion": "Final"
+            }
+        ]
+    }
+}
